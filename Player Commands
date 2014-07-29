@@ -1,0 +1,41 @@
+======
+=Hack=
+======
+
+/vban NAME - Where NAME is the name of the player who the current player want to start a vote against ( At least 7 Player )
+
+======
+=Shop=
+======
+
+/balance - Give you chance to see how much money you have
+/price - Give you chance to see price of the items
+/buy [Item] [Quantity] - Buying item
+/sell [Item] [Quantity] - Selling item
+
+=========
+=General=
+=========
+
+/starter - Give you starting items
+/plan - Information and status : "/plan
+/sethome NAME - Where NAME is the name of your home which you can teleport later
+/home NAME - Where NAME is the name of your home which you want to teleport
+
+=======
+=Spike=
+=======
+
+/spikedmg - List Commands
+/spikedmga name - Adds friend to whitelist
+/spikedmgd name - Deletes friend from whitelist
+/spikedmgl - Lists Friends in Whitelist
+
+============
+=Color Chat=
+============
+
+/colors - Gives you all the info about the available colors and commands 
+/color * - Where * is the name of the color which is available in /colors
+/color off - Turn off the colorizing of your chat messages
+/color# * - Where * is the 6 length CODE of the custom color you want to try
