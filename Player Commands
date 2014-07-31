@@ -4,6 +4,16 @@
 
 /vban NAME - Where NAME is the name of the player who the current player want to start a vote against ( At least 7 Player )
 
+=====
+=VIP=
+=====
+
+/vip -> Show the list of VIP Commands avaible for Players
+/vlist -> Show the list of VIP Players Online
+/vtp -> Show the list of avaible destination
+/vtp destinationname -> Teleport the player to the destination ( not player destination )
+/vkit -> Spawn your VIP kit
+
 ======
 =Shop=
 ======
