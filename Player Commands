@@ -72,6 +72,7 @@
 /airdroptimeleft - Display the time left in minutes before the next airdrop
 /voteday - to start a vote
 /day - to vote for the day
+/now - It is shows two times and ping, number of connected players
 
 =======
 =Spike=
