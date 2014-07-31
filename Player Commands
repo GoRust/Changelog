@@ -1,4 +1,28 @@
 ======
+=Clan=
+======
+
+/chelp to display the commands below
+/ccreate - create clan
+/cdelete - delete clan
+/cinvite "player"- invite a player to the clan
+/caccept - accept the invitation
+/ccancel - decline the invitation
+/ckick "member" - kick a member off the clan
+/cleave - leave the clan
+/cm - clan chat
+/clist - shows the list of clans in the server (Leader, # of Members, FF mode)
+/cwho - shows the list of members in the clan
+/cmotd - shows clan's MOTD
+/cff - shows clan's FF mode
+/cpromote "member" - promote a member to officer
+/cdemote "officer" - demote an officer to member
+/csetting "motd" - change motd
+/csetting "ff" on/off - change friendly fire
+/csetting "invite" - give invite privilege for officer
+/cabout - plugin information
+
+======
 =Hack=
 ======
 
