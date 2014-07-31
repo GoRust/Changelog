@@ -8,8 +8,8 @@
 =Shop=
 ======
 
-/balance - Give you chance to see how much money you have
-/price - Give you chance to see price of the items
+/balance - Gives you chance to see how much money you have
+/price - Gives you chance to see price of the items
 /buy [Item] [Quantity] - Buying item
 /sell [Item] [Quantity] - Selling item
 
@@ -17,10 +17,13 @@
 =General=
 =========
 
-/starter - Give you starting items
+/starter - Gives you starting items
 /plan - Information and status : "/plan
 /sethome NAME - Where NAME is the name of your home which you can teleport later
 /home NAME - Where NAME is the name of your home which you want to teleport
+/setdefaulthome NAME -Where name is the name of your default home which you'll spawn there when died or connected
+/destroy - Help you to destroy things you placed
+/plan - Gives you chance to see when will PVP start or end
 
 =======
 =Spike=
