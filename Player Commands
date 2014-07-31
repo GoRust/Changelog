@@ -70,7 +70,7 @@
 /plan - Gives you chance to see when will PVP start or end
 /report NAME - Where NAME is the name of player you want to report
 /airdroptimeleft - Display the time left in minutes before the next airdrop
-/voteday - to start a vote
+/voteday - to start a vote for day ( At least 7 Player )
 /day - to vote for the day
 /now - It is shows two times and ping, number of connected players
 
