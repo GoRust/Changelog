@@ -1,8 +1,12 @@
-=======
+==================
 =Building Manager=
 ==================
 
-
+/baseshare all PlayerName - Shares all objects placed by you.
+/baseshare base PlayerName - Shares only structure objects placed by you.
+/baseshare furniture PlayerName - Shares only non-structure objects placed by you.
+/baseshare show - Shows what access you have given to who.
+/baseshare remove PlayerName - Removes a players permissions to objects placed by you.
 
 ======
 =Clan=
