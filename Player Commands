@@ -34,6 +34,7 @@
 /setdefaulthome NAME -Where name is the name of your default home which you'll spawn there when died or connected
 /destroy - Help you to destroy things you placed
 /plan - Gives you chance to see when will PVP start or end
+/report NAME - Where NAME is the name of player you want to report
 
 =======
 =Spike=
