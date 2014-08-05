@@ -73,6 +73,7 @@
 /voteday - to start a vote for day ( At least 7 Player )
 /day - to vote for the day
 /now - It is shows two times and ping, number of connected players
+/wcheck - Important command for every player so they can check themselfs for activity and keep their buildings
 
 =======
 =Spike=
